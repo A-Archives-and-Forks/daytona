@@ -20,6 +20,7 @@ require (
 	github.com/hashicorp/go-hclog v1.5.0
 	github.com/hashicorp/go-plugin v1.6.0
 	github.com/juanfont/headscale v0.23.0-alpha3
+	github.com/kardianos/service v1.2.2
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/pkg/sftp v1.13.6
@@ -86,7 +87,7 @@ require (
 	github.com/glebarez/go-sqlite v1.21.2 // indirect
 	github.com/go-fed/httpsig v1.1.0 // indirect
 	github.com/go-gormigrate/gormigrate/v2 v2.1.1 // indirect
-	github.com/go-jose/go-jose/v3 v3.0.1 // indirect
+	github.com/go-jose/go-jose/v3 v3.0.3 // indirect
 	github.com/go-ole/go-ole v1.3.0 // indirect
 	github.com/go-openapi/jsonpointer v0.20.0 // indirect
 	github.com/go-openapi/jsonreference v0.20.2 // indirect
@@ -129,7 +130,6 @@ require (
 	github.com/josharian/native v1.1.1-0.20230202152459-5c7d0dd6ab86 // indirect
 	github.com/jsimonetti/rtnetlink v1.4.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/kardianos/service v1.2.2 // indirect
 	github.com/klauspost/compress v1.17.4 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.5 // indirect
 	github.com/klauspost/reedsolomon v1.9.15 // indirect
